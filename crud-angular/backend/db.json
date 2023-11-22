@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta",
+      "preco": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "preco": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "preco": 5000.89
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.5,
+      "id": 4
+    },
+    {
+      "name": "ifome",
+      "price": "15000",
+      "id": 5
+    },
+    {
+      "name": "mac book",
+      "price": "15203",
+      "id": 6
+    }
+  ]
+}
