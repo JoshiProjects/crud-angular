@@ -1,0 +1,23 @@
+.content{
+    padding: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    width: auto;
+    height: 25px;
+    border: 1px;
+    border-radius: 15px;
+    border-color: rgb(122, 122, 122);
+    border-style: groove
+    
+}
+
+button{
+    margin: 10px 15px 0px 0px;
+    
+}
